@@ -1,3 +1,4 @@
+# DELTA 
 # Made possible thanks to the GNU open-source project.
 #The first software-sharing community
 #When I started working at the MIT Artificial Intelligence Lab in 1971, I #became part of a software-sharing community that had existed for #many years. Sharing of software was not limited to our particular #community; it is as old as computers, just as sharing of recipes is as #old as cooking. But we did it more than most.
