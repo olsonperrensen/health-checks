@@ -39,7 +39,7 @@ function download(filename, text) {
     </script>
 </body>
 </html>
-
+EDIT
 // Licensed under the Tumbolia Public License. See footer for details.
 
 //------------------------------------------------------------------------------
