@@ -1,1 +1,2 @@
-this is a file
+while(this){console.log(this);};
+#this is a file
